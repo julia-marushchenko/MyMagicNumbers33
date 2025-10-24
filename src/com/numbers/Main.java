@@ -1,4 +1,6 @@
-package com.numbers;// Java program to find numbers can be divided by 3
+// Java program to find numbers can be divided by 3
+
+package com.numbers;
 
 // com.numbers.Main class
 public class Main {
