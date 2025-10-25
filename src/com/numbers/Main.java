@@ -1,11 +1,13 @@
-// Java program to find numbers can be divided by 3
+/*
+ * Java program to find numbers can be divided by 3
+ */
 
 package com.numbers;
 
-// com.numbers.Main class
+// Main class
 public class Main {
 
-    // com.numbers.Main method to run java program
+    // Main method to run java program
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
